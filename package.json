@@ -1,7 +1,7 @@
 {
-  "name": "@ree_n/jsdocxtohtml",
-  "version": "0.7.0",
-  "author": "Sergei Shevchenko <widrelk@gmail.com>",
+  "name": "pred-html-converter",
+  "version": "0.0.1",
+  "author": "Pred Converter",
   "description": "Convert Word documents from docx to HTML",
   "keywords": [
     "docx",
@@ -12,7 +12,7 @@
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/widrelk/jsDocxToHtml.git"
+    "url": "https://github.com/AakashK13/pred-converter"
   },
   "dependencies": {
     "argparse": "~1.0.3",
